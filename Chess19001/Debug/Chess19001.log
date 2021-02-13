@@ -1,0 +1,9 @@
+﻿  bscs19001.cpp
+D:\VS Projects\OLDS\Chess19001\Chess19001\bscs19001.cpp(989,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS Projects\OLDS\Chess19001\Chess19001\bscs19001.cpp(1064,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS Projects\OLDS\Chess19001\Chess19001\bscs19001.cpp(1066,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS Projects\OLDS\Chess19001\Chess19001\bscs19001.cpp(1119,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS Projects\OLDS\Chess19001\Chess19001\bscs19001.cpp(1121,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\VS Projects\OLDS\Chess19001\Chess19001\bscs19001.cpp(993,7): warning C4101: 'valid': unreferenced local variable
+D:\VS Projects\OLDS\Chess19001\Chess19001\bscs19001.cpp(669): warning C4715: 'findKing': not all control paths return a value
+  Chess19001.vcxproj -> D:\VS Projects\OLDS\Chess19001\Debug\Chess19001.exe
